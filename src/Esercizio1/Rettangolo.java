@@ -37,8 +37,8 @@ public class Rettangolo {
     }
 
     public static void main(String[] args) {
-        Rettangolo r1 = new Rettangolo(4, 5);
-        Rettangolo r2 = new Rettangolo(3, 6);
+        Rettangolo r1 = new Rettangolo(7, 9);
+        Rettangolo r2 = new Rettangolo(56, 62);
 
         stampaDueRettangoli(r1, r2);
     }
